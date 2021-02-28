@@ -3,6 +3,8 @@
 
 アプリを起動するには、ファイルをダウンロード後にターミナルで`npm install`を実行し、必要なパッケージをダウンロードする必要があります。
 
+`App.js`内のAPIのURLはweatherapiのアカウントで取得したものに変更してください。
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
